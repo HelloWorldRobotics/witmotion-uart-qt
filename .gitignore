@@ -21,4 +21,5 @@
 __pycache__
 .cmake/
 include/witmotion/version.h
+config/doxygen-awesome/
 
